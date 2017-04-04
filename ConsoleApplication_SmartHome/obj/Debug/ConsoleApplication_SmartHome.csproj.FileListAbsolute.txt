@@ -1,0 +1,21 @@
+E:\2.Основы С#\Практика\ConsoleApplication_SmartHome\ConsoleApplication_SmartHome\bin\Debug\ConsoleApplication_SmartHome.exe.config
+E:\2.Основы С#\Практика\ConsoleApplication_SmartHome\ConsoleApplication_SmartHome\bin\Debug\ConsoleApplication_SmartHome.exe
+E:\2.Основы С#\Практика\ConsoleApplication_SmartHome\ConsoleApplication_SmartHome\bin\Debug\ConsoleApplication_SmartHome.pdb
+E:\2.Основы С#\Практика\ConsoleApplication_SmartHome\ConsoleApplication_SmartHome\obj\Debug\ConsoleApplication_SmartHome.exe
+E:\2.Основы С#\Практика\ConsoleApplication_SmartHome\ConsoleApplication_SmartHome\obj\Debug\ConsoleApplication_SmartHome.pdb
+E:\2.Основы С#\Практика\ConsoleApplication_SmartHome\ConsoleApplication_SmartHome\obj\Debug\ConsoleApplication_SmartHome.csprojResolveAssemblyReference.cache
+C:\Users\Евгений\Desktop\ConsoleApplication_SmartHome\ConsoleApplication_SmartHome\bin\Debug\ConsoleApplication_SmartHome.exe.config
+C:\Users\Евгений\Desktop\ConsoleApplication_SmartHome\ConsoleApplication_SmartHome\obj\Debug\ConsoleApplication_SmartHome.exe
+C:\Users\Евгений\Desktop\ConsoleApplication_SmartHome\ConsoleApplication_SmartHome\obj\Debug\ConsoleApplication_SmartHome.pdb
+C:\Users\Евгений\Desktop\ConsoleApplication_SmartHome\ConsoleApplication_SmartHome\bin\Debug\ConsoleApplication_SmartHome.exe
+C:\Users\Евгений\Desktop\ConsoleApplication_SmartHome\ConsoleApplication_SmartHome\bin\Debug\ConsoleApplication_SmartHome.pdb
+C:\Users\Евгений\Desktop\ConsoleApplication_SmartHome\ConsoleApplication_SmartHome\obj\Debug\ConsoleApplication_SmartHome.csprojResolveAssemblyReference.cache
+E:\2.Основы С#\Практика\ConsoleApplication_SmartHome v1.1\ConsoleApplication_SmartHome\bin\Debug\ConsoleApplication_SmartHome.exe.config
+E:\2.Основы С#\Практика\ConsoleApplication_SmartHome v1.1\ConsoleApplication_SmartHome\obj\Debug\ConsoleApplication_SmartHome.exe
+E:\2.Основы С#\Практика\ConsoleApplication_SmartHome v1.1\ConsoleApplication_SmartHome\obj\Debug\ConsoleApplication_SmartHome.pdb
+E:\2.Основы С#\Практика\SmartHome v1.1 Dll\ConsoleApplication_SmartHome\bin\Debug\SmartHomeModel.dll.config
+E:\2.Основы С#\Практика\SmartHome v1.1 Dll\ConsoleApplication_SmartHome\bin\Debug\SmartHomeModel.dll
+E:\2.Основы С#\Практика\SmartHome v1.1 Dll\ConsoleApplication_SmartHome\bin\Debug\SmartHomeModel.pdb
+E:\2.Основы С#\Практика\SmartHome v1.1 Dll\ConsoleApplication_SmartHome\obj\Debug\ConsoleApplication_SmartHome.csprojResolveAssemblyReference.cache
+E:\2.Основы С#\Практика\SmartHome v1.1 Dll\ConsoleApplication_SmartHome\obj\Debug\SmartHomeModel.dll
+E:\2.Основы С#\Практика\SmartHome v1.1 Dll\ConsoleApplication_SmartHome\obj\Debug\SmartHomeModel.pdb

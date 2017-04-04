@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E7FA6386-DBC1-42B8-85ED-5EA98ED62117}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SmartHome</RootNamespace>
+    <AssemblyName>SmartHomeModel</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Device\Blower.cs" />
+    <Compile Include="Device\Conditioner.cs" />
+    <Compile Include="Device\Device.cs" />
+    <Compile Include="Factory\Factory.cs" />
+    <Compile Include="Device\Heater.cs" />
+    <Compile Include="Interface\IDevicable.cs" />
+    <Compile Include="Interface\IFanable.cs" />
+    <Compile Include="Interface\IBassable.cs" />
+    <Compile Include="Interface\IColorRedable.cs" />
+    <Compile Include="Interface\ISwitchable.cs" />
+    <Compile Include="Interface\ISpeedSetable.cs" />
+    <Compile Include="Interface\PartInterface\ITemperaturSetable.cs" />
+    <Compile Include="Interface\ITemperatureble.cs" />
+    <Compile Include="Menu\Menu.cs" />
+    <Compile Include="Interface\PartInterface\ISwitchSetable.cs" />
+    <Compile Include="Interface\IVolumenable.cs" />
+    <Compile Include="Interface\PartInterface\ILevelSetable.cs" />
+    <Compile Include="Device\MediaDevice.cs" />
+    <Compile Include="Main\Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Device\PartDevice\SwitcSet.cs" />
+    <Compile Include="Device\TV.cs" />
+    <Compile Include="Device\PartDevice\LevelSet.cs" />
+    <Compile Include="Device\Sound.cs" />
+    <Compile Include="Enum\Speed.cs" />
+    <Compile Include="Device\PartDevice\SpeedAir.cs" />
+    <Compile Include="Device\PartDevice\TemperatureSetting.cs" />
+    <Compile Include="Delegate\StateDevice.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="ClassDiagram1.cd" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
