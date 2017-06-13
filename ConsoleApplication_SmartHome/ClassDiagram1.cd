@@ -74,7 +74,7 @@
       </Path>
     </InheritanceLine>
     <TypeIdentifier>
-      <HashCode>AAAAAEAAgAAgAAAUoAAACAAAAAAAEAAAAAAAAAAEBAA=</HashCode>
+      <HashCode>AAAAAEAAgAAgAAAUgAAACAAAAAAAEAAAAAAAAAAEBAA=</HashCode>
       <FileName>Device\Conditioner.cs</FileName>
     </TypeIdentifier>
     <Lollipop Position="0.2" />
@@ -98,7 +98,7 @@
       </Path>
     </InheritanceLine>
     <TypeIdentifier>
-      <HashCode>AAAAAEAAAAAgAAAEIAAAAAAAAAAAEAAAAAAAAAAEBAA=</HashCode>
+      <HashCode>AAAAAEAAAAAAAAAEAAAAAAAAAAAAEAAAAAAAAAAEBAA=</HashCode>
       <FileName>Device\Heater.cs</FileName>
     </TypeIdentifier>
     <Lollipop Position="0.2" />

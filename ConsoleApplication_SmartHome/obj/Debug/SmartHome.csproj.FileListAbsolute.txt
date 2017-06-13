@@ -15,3 +15,8 @@ E:\3. ASP.net\Практика\SmartHome v1.1 Dll\ConsoleApplication_SmartHome\b
 E:\3. ASP.net\Практика\SmartHome v1.1 Dll\ConsoleApplication_SmartHome\obj\Debug\SmartHome.csprojResolveAssemblyReference.cache
 E:\3. ASP.net\Практика\SmartHome v1.1 Dll\ConsoleApplication_SmartHome\obj\Debug\SmartHomeModel.dll
 E:\3. ASP.net\Практика\SmartHome v1.1 Dll\ConsoleApplication_SmartHome\obj\Debug\SmartHomeModel.pdb
+C:\Users\Евгений\Documents\GitHub\SmartHome\ConsoleApplication_SmartHome\bin\Debug\SmartHomeModel.dll.config
+C:\Users\Евгений\Documents\GitHub\SmartHome\ConsoleApplication_SmartHome\bin\Debug\SmartHomeModel.dll
+C:\Users\Евгений\Documents\GitHub\SmartHome\ConsoleApplication_SmartHome\bin\Debug\SmartHomeModel.pdb
+C:\Users\Евгений\Documents\GitHub\SmartHome\ConsoleApplication_SmartHome\obj\Debug\SmartHomeModel.dll
+C:\Users\Евгений\Documents\GitHub\SmartHome\ConsoleApplication_SmartHome\obj\Debug\SmartHomeModel.pdb

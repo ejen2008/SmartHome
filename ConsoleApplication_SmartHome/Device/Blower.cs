@@ -7,7 +7,6 @@ namespace SmartHome
 {
     internal class Blower : Device, ISpeedAirable
     {
-        private Speed levelSpeed;
         public ISpeedSetable SpeedAir { get; set; }
 
         public Blower(string name, bool state, Speed speedLevel, ISpeedSetable speedAir)
@@ -23,11 +22,11 @@ namespace SmartHome
         {
             get
             {
-                return levelSpeed;
+                return SpeedAir.SpeedGetSet;
             }
             internal set
             {
-                levelSpeed = SpeedAir.SpeedGetSet;
+                SpeedAir.SpeedGetSet = value;
             }
         }
 

@@ -8,7 +8,6 @@ namespace SmartHome
 
     internal class Conditioner : Device, ITemperaturable, ISpeedAirable
     {
-        private Speed levelSpeed;
         protected ITemperaturSetable TemperatureInter { get; set; }
         protected ISpeedSetable SpeedAir { get; set; }
 
@@ -26,11 +25,11 @@ namespace SmartHome
         {
             get
             {
-                return levelSpeed;
+                return SpeedAir.SpeedGetSet;
             }
             internal set
             {
-                levelSpeed = SpeedAir.SpeedGetSet;
+                SpeedAir.SpeedGetSet = value;
             }
         }
 
